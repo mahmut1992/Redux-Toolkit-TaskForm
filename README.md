@@ -1,13 +1,40 @@
-# React + Vite
+# ✅ Task Manager with Redux Toolkit
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains a simple task management application built using **React** and **Redux Toolkit**. The purpose of this project is to demonstrate how Redux Toolkit simplifies state management and to help solidify understanding of core Redux principles.
 
-Currently, two official plugins are available:
+# 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Create new tasks  
+- Edit existing tasks  
+- Delete tasks  
+- Centralized state management with Redux Toolkit  
+- Clean and responsive UI with Bootstrap  
+- Educational use of `react-redux` and `@reduxjs/toolkit`
 
-## Expanding the ESLint configuration
+# 🧠 Purpose
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# Redux-Toolkit-TaskForm
+The main goal of this project is to provide a clear and easy-to-follow example of how to manage application state using **Redux Toolkit**, making complex data flows more understandable and maintainable.
+
+# 🛠️ Technologies Used
+
+### 💻 Frontend
+- React  
+- React DOM  
+- React Router DOM  
+- React Icons  
+- Bootstrap  
+- React Bootstrap  
+- UUID
+
+### 🔄 State Management
+- Redux Toolkit (`@reduxjs/toolkit`)  
+- React Redux (`react-redux`)
+
+# 📸 Screenshot
+
+![ZightRecording2025-03-26at12 20 32AM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ea9fa656-2563-4000-90ea-95e2942aad55)
+
+
+# 📨 Contact
+
+For any questions or suggestions, feel free to contact: **fratsbht@icloud.com**
